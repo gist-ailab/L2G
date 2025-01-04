@@ -15,3 +15,8 @@ venv.bak/
 
 # mac
 .DS_Store
+/data
+/experiments
+*.egg-info
+*/build
+*/dist
